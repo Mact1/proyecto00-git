@@ -7,7 +7,14 @@ public class Alumno {
 	private String apellido;
 	private int codigo;
 	
-	
+
+	public String getApellido() {
+		return apellido;
+	}
+
+	public void setApellido(String apellido) {
+		this.apellido = apellido;
+	}
 
 	public String getNombre() {
 		return nombre;
