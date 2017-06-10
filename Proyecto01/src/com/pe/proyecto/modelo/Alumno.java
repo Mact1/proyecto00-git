@@ -3,6 +3,8 @@ package com.pe.proyecto.modelo;
 public class Alumno {
 	
 	private String nombre;
+	private Double promedionota;
+	
 
 	public String getNombre() {
 		return nombre;
