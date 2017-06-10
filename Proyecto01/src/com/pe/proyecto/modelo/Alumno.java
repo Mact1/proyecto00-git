@@ -4,6 +4,8 @@ public class Alumno {
 	
 	private String nombre;
 	private Double promedionota;
+	private String apellido;
+	
 	
 
 	public String getNombre() {
